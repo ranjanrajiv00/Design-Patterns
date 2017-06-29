@@ -1,0 +1,12 @@
+D:\Rajiv\Design Patterns\Adapter\Adapter\bin\Debug\Adapter.exe.config
+D:\Rajiv\Design Patterns\Adapter\Adapter\bin\Debug\Adapter.exe
+D:\Rajiv\Design Patterns\Adapter\Adapter\bin\Debug\Adapter.pdb
+D:\Rajiv\Design Patterns\Adapter\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+D:\Rajiv\Design Patterns\Adapter\Adapter\obj\Debug\Adapter.exe
+D:\Rajiv\Design Patterns\Adapter\Adapter\obj\Debug\Adapter.pdb
+D:\Rajiv\Practice\Design Patterns\Adapter\Adapter\bin\Debug\Adapter.exe.config
+D:\Rajiv\Practice\Design Patterns\Adapter\Adapter\obj\Debug\Adapter.exe
+D:\Rajiv\Practice\Design Patterns\Adapter\Adapter\obj\Debug\Adapter.pdb
+D:\Rajiv\Practice\Design Patterns\Adapter\Adapter\bin\Debug\Adapter.exe
+D:\Rajiv\Practice\Design Patterns\Adapter\Adapter\bin\Debug\Adapter.pdb
+D:\Rajiv\Practice\Design Patterns\Adapter\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
